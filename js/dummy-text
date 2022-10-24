@@ -1,0 +1,368 @@
+
+   		<div class="col-twelve">
+			   <!-- portfolio-wrapper -->
+			   <div id="folio-wrapper" class="block-1-2 block-mob-full stack">
+			
+
+	         	<div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images/portfolio/liberty.jpg" alt="Liberty">
+	                  <a href="#modal-01" class="overlay">	                  	           
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+		     					       <h3 class="folio-title">LMS System</h3>	     					    
+		     					    	 <span class="folio-types">
+		     					       	  Web Development
+		     					       </span>
+		     					   </div>	                      	
+	                     </div>                    
+	                  </a>
+	               </div>	               
+	        		</div> <!-- /folio-item -->
+
+	        		<div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images/portfolio/shutterbug.jpg" alt="Shutterbug">
+	               	<a href="#modal-02" class="overlay">              		                  
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+	                     		<h3 class="folio-title">Technical Tips</h3>	     					    
+		     					    	<span class="folio-types">
+		     					       	  Web Development
+		     					      </span>		     		
+		     					   </div> 	                      	
+	                     </div>                    
+	                  </a>
+	               </div>
+	        		</div> <!-- /folio-item -->
+
+	            <div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images/portfolio/clouds.jpg"alt="Clouds">
+	                  <a href="#modal-03" class="overlay">             		                  
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+	                     		<h3 class="folio-title">Innovative Quiz System</h3>	     					    
+		     					    	<span class="folio-types">
+		     					       	  Web Design
+		     					      </span>		     		
+		     					   </div> 	                      	
+	                     </div>                    
+	                  </a>
+	               </div>
+	        		</div> <!-- /folio-item -->
+
+	            <div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images/portfolio/beetle.jpg" alt="Beetle">
+	                  <a href="#modal-04" class="overlay">                  	                 
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+	                     		<h3 class="folio-title">Swafi Brand Logo</h3>	     					    
+		     					    	<span class="folio-types">
+		     					       	  Graphic Designing
+		     					      </span>		     		
+		     					   </div>  	                      	
+	                     </div>                    
+	                  </a>
+	               </div>
+	        		</div> <!-- /folio-item -->     
+
+	        		<div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images/portfolio/lighthouse.jpg" alt="Lighthouse">
+	                  <a href="#modal-05" class="overlay">             		                  
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+	                     		<h3 class="folio-title">MCR System</h3>	     					    
+		     					    	<span class="folio-types">
+		     					       	  Web Development
+		     					      </span>		     		
+		     					   </div> 	                      	
+	                     </div>                    
+	                  </a>
+	               </div>
+	        		</div> <!-- /folio-item -->
+
+	            <div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images/portfolio/salad.jpg" alt="Salad">
+	                  <a href="#modal-06" class="overlay">
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+	                     		<h3 class="folio-title">Canon Logo Idea</h3>	     					    
+		     					    	<span class="folio-types">
+		     					       	  Branding
+		     					      </span>		     		
+		     					   </div>	                      	
+	                     </div>                    
+	                  </a>
+	               </div>
+	        		</div> <!-- /folio-item -->   
+
+	            <!-- modal popups - begin
+	            ============================================================= -->
+	            <div id="modal-01" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-liberty.jpg" alt="" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>LMS System</h4>		      
+					      <p>
+						      LMS is only for registered user, so all the information should be accessible after authentications of users.
+								LMS website display course names, description and teacher’s names on front page.
+								Website should have login form to login as a user.
+								Without logged in user cannot view the detailed information of courses.
+					      </p>
+
+					      <div class="categories">Web Development</div>			               
+					   </div>
+
+			         <div class="link-box">
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+				   </div> <!-- /modal-01 -->
+
+				   <div id="modal-02" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-shutterbug.jpg" alt="" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Technical Tips</h4>		      
+					      <p>
+					      	Technical Tip Brand logo for You tube Channel
+					      </p>
+
+					      <div class="categories">Brand Logo</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <!-- <a href="#">Details</a> -->
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+				   </div> <!-- /modal-02 -->
+
+				   <div id="modal-03" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-clouds.jpg" alt="" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Innovative Quiz System</h4>		      
+					      <p>
+					      	Innovative Quiz System is the web based mcq's system for where admin panel, test creator panel, user panel. Test Creator can create test and user can take test.
+					      </p>
+
+					      <div class="categories">Web Design</div>			               
+					   </div>
+
+			         <div class="link-box">
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+				   </div> <!-- /modal-03 -->
+
+				   <div id="modal-04" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-beetle.jpg" alt="" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Swafi Brand Logo</h4>		      
+					      <p>Swafi Brand Logo is Clothes Shop of Islamabad.</p>
+
+					      <div class="categories">Cloth Branding Logo</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <!-- <a href="http://www.behance.net">Details</a> -->
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+				   </div> <!-- /modal-04 -->
+
+				   <div id="modal-05" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-lighthouse.jpg" alt="" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>MCR System</h4>		      
+					      <p>
+					      	MCR solve people's problems and provide a platform for selection of a website for parents. To use this website, 
+					      	they can easily find a child and save a lot of time. To add post of missing child with profile image and details for identification.
+					      </p>
+
+					      <div class="categories">Web Development</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <!-- <a href="http://www.behance.net">Details</a> -->
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+				   </div> <!-- /modal-05 -->
+
+				   <div id="modal-06" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-salad.jpg" alt="" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Canon Logo Idea</h4>		      
+					      <p>
+					      	Student Assignment Logo for freelancing in graphics design.
+					      </p>
+
+					      <div class="categories">Freelancing</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <!-- <a href="http://www.behance.net">Details</a> -->
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+				   </div> <!-- /modal-06 -->
+
+
+				   <!-- modal popups - end
+	            ============================================================= -->
+
+	         </div> <!-- /portfolio-wrapper --> 
+
+   		</div>  <!-- /twelve -->   
+
+           <div class="service">
+
+<span class="icon"><i class="icon-paint-brush"></i></span>		            
+
+<div class="service-content">
+
+ <h3>Graphic Designing</h3>
+
+ <p class="desc">The Innovative Designs Here we design and develop a Website, Portfolio, SEO,  Logo, Poster, Cover Designs, Brochure Design, Photo Editing, Illustration, etc.</p> 
+
+</div> 	            	               
+
+</div> <!-- /service -->
+
+<div class="service">
+
+ <span class="icon"><i class="icon-toggles"></i></span>	              
+
+<div class="service-content">
+
+ <h3>UI/UX Design</h3>
+
+ <p class="desc">I have done many modern app ui ux , web, and dashboard UI UX designs for various kinds of businesses; Blog & Magazine, Education, NFT, Blockchain, Cryptocurrency, Non-fungible token, Real Estate, Wedding, Legal, Saloon, Gym, Health & Fitness, e-commerce UI Design.
+  </p> 
+  
+</div>                
+
+</div> <!-- /service -->
+
+<div class="service">
+
+<span class="icon"><i class="icon-image"></i></span>	            
+
+<div class="service-content">
+
+ <h3>Logo Designs</h3>
+
+ <p class="desc">
+     I am Professional Graphic Designer, I'm here to provide you my best ideas and 3 years of experience in graphic design for posting/mailing graphics in internet, brand identity or printing & web design as well. You will get Unique, Classic, and Modern Design.
+     </p> 
+
+</div>	               
+
+</div> <!-- /service -->
+
+
+
+
+	<!-- services Section
+   ================================================== -->
+   <section id="services" style="box-shadow: black;">
+
+<div class="overlay"></div>
+
+<div class="row section-intro">
+   <div class="col-twelve">
+
+       <h5>Services</h5>
+       <h1>What Can I Do For You?</h1>
+
+       <p class="lead">
+           I am available for web design, web development, front-end, back-end, ui/ux,  video editing,  graphics designing etc.
+       </p>
+
+   </div>   		
+</div> <!-- /section-intro -->
+
+<div class="row services-content">
+
+   <div id="owl-slider" class="owl-carousel services-list">
+
+      <div class="service">	
+
+          <span class="icon"><i class="icon-earth"></i></span>            
+
+        <div class="service-content">	
+
+             <h3>PHP Laravel Development</h3>
+
+            <p class="desc">
+                 I can .
+            </p>
+             
+         </div> 	         	 
+
+        </div> <!-- /service -->
+
+        <div class="service">	
+
+            <span class="icon"><i class="icon-window"></i></span>                          
+
+        <div class="service-content">	
+
+            <h3>Web Designing</h3>  
+
+            <p class="desc">
+                I will Design and Develop Fully Dynamic & Responsive Website or Landing Page for you that will be eye catching,secure and SEO-friendly at affordable rates.
+            </p>
+
+        </div>	                          
+
+       </div> <!-- /service -->
+
+       <div class="service">	
+
+        <span class="icon"><i class="icon-window"></i></span>                          
+
+    <div class="service-content">	
+
+        <h3>Web Designing</h3>  
+
+        <p class="desc">
+            I will Design and Develop Fully Dynamic & Responsive Website or Landing Page for you that will be eye catching,secure and SEO-friendly at affordable rates.
+        </p>
+
+    </div>	                          
+
+   </div> <!-- /service -->
+       
+  </div> <!-- /services-list -->
+   
+</div> <!-- /services-content -->
+
+</section> <!-- /services -->	
